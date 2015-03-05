@@ -13,7 +13,7 @@ Math 207: Elementary Linear Algebra, Spring 2015
 <!-- **Course Webpage:** http://github.com/williamdemeo/Math207-Spring2015 -->
 
 [**WebAssign:** https://www.webassign.net/login.html](https://www.webassign.net/login.html)  
-(For login instructions, see the [WebAssign-Instructions](WebAssign-Instructions.html).)
+(For login instructions, see the [WebAssign-Instructions](http://htmlpreview.github.io/?https://github.com/williamdemeo/Math207-Sprint2015/blob/master/WebAssign-Instructions.html).)
 
 **Remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
