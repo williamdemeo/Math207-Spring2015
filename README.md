@@ -59,8 +59,8 @@ is over.
 Asking Questions
 ----------------
 When you don't understand something even after giving it some thought,
-please ask a question!  The best time/place to do this is during lecture or
-recitation or office hours.
+please ask a question!  The best time/place to do this is during lecture or in
+office hours. 
 
 The second best time/place to ask a question is on our
 [Wiki pages](https://github.com/williamdemeo/Math207-Spring2015/wiki).  Anyone
@@ -73,13 +73,21 @@ especially good for collaborating on team projects.)
 Another way to ask a question is by using the "Ask my instructor" link on
 WebAssign. This method is convenient for the instructor because
 details about the problem you're having trouble with are automatically embedded
-in your email.  *Please note:* if you use the "Ask my instructor" button, your
+in your email.
+
+*Please note:* if you use the "Ask my instructor" button, your
 question may appear on our wiki page (which is public).  If you're
 uncomfortable with this, please say so in your message.
 
 Finally, you may email the instructors directly, though the response
-time might be slower than if you use one of the preferred methods above.
+time might be significantly slower than if you use one of the preferred methods
+above. 
 
+**Important note about asking questions:** 
+There are no stupid questions!  Students should ask about anything that seems
+unclear. *However*, questions about specific homework problems should be
+accompanied by evidence that the student has already given serious thought to
+the problem.  Otherwise, the reply will usually be, "What have you tried?"
 
 Use of Electronics During Lecture
 ---------------------------------
