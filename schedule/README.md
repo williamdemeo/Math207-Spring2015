@@ -15,19 +15,18 @@ Students are advised to check this page often!
 
 **Thursday 3/05**  
 4.5 Basis and Dimension  
-4.6 Rank of a Matrix and Systems of Linear Equations  
 **QUIZ 5:** 4.1--4.3
  
 ---------------------------------------------------------  
 
 **Tuesday 3/10**  
+4.6 Rank of a Matrix and Systems of Linear Equations  
 4.7 Coordinates and Change of Basis  
 
 ### CHAPTER 5: INNER PRODUCT SPACES
 
 **Thursday 3/12**  
 4.8 Applications of Vector Spaces  
-5.1 Length and Dot Product in R<sup>n</sup>  
 **QUIZ 6:** 4.4--4.6  
 
 ---------------------------------------------------------  
@@ -39,21 +38,21 @@ Students are advised to check this page often!
 ---------------------------------------------------------  
 
 **Tuesday 3/24**  
+5.1 Length and Dot Product in R<sup>n</sup>  
 5.2 Inner Product Spaces  
-5.3 Orthonormal Bases: Gram-Schmidt Process  
 
 **Thursday 3/26**  
+5.3 Orthonormal Bases: Gram-Schmidt Process  
 5.4 Mathematical Models and Least Squares Analysis  
-5.5 Applications of Inner Product Spaces  
-**QUIZ 7:** 4.7--5.2
+**QUIZ 7:** 4.7--5.1
 
 (Friday 3/27: **last day to drop**)  
 
 ---------------------------------------------------------  
 
 **Tuesday 3/31**  
-The QR-Factorization  
-Orthogonal Matrices and Change of Basis  
+5.5 Applications of Inner Product Spaces  
+QR-Factorization, Orthogonal Matrices, Change of Basis  
 
 ## APRIL
 
@@ -62,7 +61,7 @@ Orthogonal Matrices and Change of Basis
 **Thursday 4/2**  
 6.1 Introduction to Linear Transformations  
 6.2 The Kernel and Range of a Linear Transformation  
-**QUIZ 8:** 5.3--5.5
+**QUIZ 8:** 5.2--5.4
 
 ---------------------------------------------------------  
 
