@@ -45,7 +45,7 @@ Students are advised to check this page often!
 **Thursday 3/26**  
 5.4 Mathematical Models and Least Squares Analysis  
 5.5 Applications of Inner Product Spaces  
-**QUIZ 7:** 4.7--5.1
+**QUIZ 7:** 4.7--5.2
 
 (Friday 3/27: **last day to drop**)  
 
@@ -60,9 +60,9 @@ Orthogonal Matrices and Change of Basis
 ### CHAPTER 6: LINEAR TRANSFORMATIONS
 
 **Thursday 4/2**  
-6.1 Introduction to Linear Transformations
-6.2 The Kernel and Range of a Linear Transformation
-**QUIZ 8:** 5.2--5.4
+6.1 Introduction to Linear Transformations  
+6.2 The Kernel and Range of a Linear Transformation  
+**QUIZ 8:** 5.3--5.5
 
 ---------------------------------------------------------  
 
@@ -70,14 +70,14 @@ Orthogonal Matrices and Change of Basis
 Review for Test 2
 
 **Thursday 4/9**  
-**TEST 2**
+**TEST 2** (Chapters 4 and 5, plus Sections 6.1 and 6.2.)
 
 --------------------------------------------------------  
 
 ### EIGENVALUES AND EIGENVECTORS
 
 **Tuesday 4/14**  
-6.3 Matrices for Linear Transformations
+6.3 Matrices for Linear Transformations  
 6.4 Transition Matrices and Similarity
 
 **Thursday 4/16**  
@@ -90,23 +90,15 @@ Review for Test 2
 **Thursday 4/23**  
 7.2 Diagonalization  
 7.3 Symmetric Matrices and Orthogonal Diagonalization  
+**QUIZ 8:** 6.3--6.5
 
 ---------------------------------------------------------  
 **Tuesday 4/28**  
 7.4 Applications of Eigenvalues and Eigenvectors
 
 **Thursday 4/30**  
+Population Growth and Dynamical Systems (I)  
+The Fibonacci Sequence  
+**QUIZ 9:** 7.1--7.3
 
-
-
-Project 1 Population Growth and Dynamical Systems (I)
-Project 2 The Fibonacci Sequence
-Cumulative Test for Chapters 6 and 7
- **QUIZ 8:** 5.1--5.4
-
----------------------------------------------------------  
-M 4/27: 7.4 Relative rates of growth  
-W 4/29: Review/Exercises  
-F 5/1: Practice Test  
-<!-- **MLP HW 22: 7.1, 7.2**   -->
                                                                   
