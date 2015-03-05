@@ -14,7 +14,6 @@ Math 207: Elementary Linear Algebra, Spring 2015
 
 [**WebAssign:** https://www.webassign.net/login.html](https://www.webassign.net/login.html)  
 (For login instructions, see the [WebAssign-Instructions](http://htmlpreview.github.io/?https://github.com/williamdemeo/Math207-Spring2015/blob/master/WebAssign-Instructions.html).)
-<!-- https://raw.githubusercontent.com/williamdemeo/Math207-Spring2015/master/WebAssign-Instructions.html -->
 
 **Remarks about office hours:**
 The regularly scheduled office hours listed above are subject to change.
@@ -128,7 +127,8 @@ In this course, we follow the general university classroom policy: http://www.ma
 
 Additional Resources
 --------------------
-+ [WebAssign](http://www.webassign.net)
++ [WebAssign Login: https://www.webassign.net/login.html](https://www.webassign.net/login.html)  
++ [WebAssign Login instructions](http://htmlpreview.github.io/?https://github.com/williamdemeo/Math207-Spring2015/blob/master/WebAssign-Instructions.html)
 + [Math 207 General Info](http://orion.math.iastate.edu/dept/CoursePages/207/)
 + [ISU Math Department](http://www.math.iastate.edu/)
 + [ISU Math Course Pages](http://www.math.iastate.edu/Directories/CoursePages.html)
