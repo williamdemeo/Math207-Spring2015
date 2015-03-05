@@ -67,7 +67,7 @@ Orthogonal Matrices and Change of Basis
 ---------------------------------------------------------  
 
 **Tuesday 4/7**  
-Review for Test 2
+Review and catch up
 
 **Thursday 4/9**  
 **TEST 2** (Chapters 4 and 5, plus Sections 6.1 and 6.2.)
