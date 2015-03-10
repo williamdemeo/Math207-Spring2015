@@ -38,17 +38,16 @@ in advance to let me know when you plan to visit.
 Attendance
 ----------
 Students are expected to attend all classes.
-A grade penalty will be exacted if you have an excessive number of absences
-(whether excused or unexcused).
+A grade penalty may be exacted if you have an excessive number of unexcused absences.
 Specifically, you are permitted (but strongly discouraged from taking) seven
-absences in total. Each absence in addition
-to that may result in the deduction of points from your final grade.
+absences in total. 
 
-<!-- In most of the lectures, attendance will be recorded by passing around a sign-in -->
-<!-- sheet on which you will print and sign your own name. (If another student asks -->
-<!-- you to sign in for them, don't do it! Forging another student's signature -->
-<!-- constitutes a violation of the student code of conduct and will be referred to -->
-<!-- the ISU Office of Academic Integrity.) -->
+However, since Math 207 is a large lecture, and because we will have near-weekly
+quizzes, attendance should not be an issue for most students in this class.
+Usually it only comes into play at the end of the semester if a student happens
+to end up on the border between two letter grades.  In such cases, the professor
+may look for things like an exemplary attendance record to justify moving the
+student up into the next grade category. 
 
 If you plan to leave before class is over, the correct procedure is to mention
 this to the professor before the start of class. It is impolite and disruptive

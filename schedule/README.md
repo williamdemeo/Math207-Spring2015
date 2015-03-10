@@ -48,7 +48,7 @@ Students are advised to check this page often!
 **Thursday 3/26**  
 5.3 Orthonormal Bases: Gram-Schmidt Process  
 5.4 Mathematical Models and Least Squares Analysis  
-**QUIZ 7:** 4.7--5.1
+**QUIZ 7:** 4.6--4.8
 
 (Friday 3/27: **last day to drop**)  
 
@@ -65,7 +65,7 @@ QR-Factorization, Orthogonal Matrices, Change of Basis
 **Thursday 4/2**  
 6.1 Introduction to Linear Transformations  
 6.2 The Kernel and Range of a Linear Transformation  
-**QUIZ 8:** 5.2--5.4
+**QUIZ 8:** 5.1--5.3
 
 ---------------------------------------------------------  
 
