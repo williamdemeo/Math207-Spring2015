@@ -23,19 +23,23 @@ Students are advised to check this page often!
 4.6 Rank of a Matrix and Systems of Linear Equations  
 4.7 Coordinates and Change of Basis  
 
-### CHAPTER 5: INNER PRODUCT SPACES
-
 **Thursday 3/12**  
+4.7 Coordinates and Change of Basis  
 4.8 Applications of Vector Spaces  
 **QUIZ 6:** 4.4--4.6  
 
 ---------------------------------------------------------  
+
+### SPRING BREAK!!!
 
 **Tuesday 3/17:** no class  
 
 **Thursday 3/19:** no class  
 
 ---------------------------------------------------------  
+
+### CHAPTER 5: INNER PRODUCT SPACES
+
 
 **Tuesday 3/24**  
 5.1 Length and Dot Product in R<sup>n</sup>  
@@ -69,7 +73,7 @@ QR-Factorization, Orthogonal Matrices, Change of Basis
 Review and catch up
 
 **Thursday 4/9**  
-**TEST 2** (Chapters 4 and 5, plus Sections 6.1 and 6.2.)
+**TEST 2** (Chapters 4 and 5)
 
 --------------------------------------------------------  
 
