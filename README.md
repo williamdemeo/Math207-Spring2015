@@ -93,10 +93,7 @@ score will be dropped at the end of the semester.
 
 Quizzes and Exams
 -----------------
-There will be a quiz approximately once per week, on Thursdays.  Generally each quiz
-will focus on the material covered during the preceeding week.
-
-There will be two midterm exams, and one final exam.
+There will be a number of quizzes, two midterm exams, and one final exam.
 
 + **Test 1** Chapters 1--3  
 **DATE: Thursday, February 19**  
@@ -110,6 +107,11 @@ There will be two midterm exams, and one final exam.
 In accordance with university policy, the final exam is mandatory and must be
 taken by all students at the scheduled time. Do not make travel plans before
 knowing the date of the final exam.
+
+Quizzes will occur approximately once per week, on Thursdays.  Generally each quiz
+will focus on the material covered during the preceeding week. 
+**There are no make-up quizzes or exams.** The lowest quiz score will be dropped.
+
 
 Attendance
 ----------
