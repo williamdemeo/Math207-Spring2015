@@ -84,9 +84,11 @@ Grading Policy
 
 Homework
 --------
-Online homework will be completed on WebAssign. Instructions to register
-for WebAssign are found on the Blackboard site. The due date for online homework will be
-midnight on the Thursday and no late homework will be accepted. The lowest homework
+Online homework will be completed on WebAssign. See
+[WebAssign-Instructions](http://htmlpreview.github.io/?https://github.com/williamdemeo/Math207-Spring2015/blob/master/WebAssign-Instructions.html)
+for registration instructions. (These instructions are also available on the
+Blackboard site. The due date for online homework will be 
+midnight on the Thursday and **no late homework will be accepted**. The lowest homework
 score will be dropped at the end of the semester.
 
 Quizzes and Exams
