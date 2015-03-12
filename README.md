@@ -91,22 +91,19 @@ score will be dropped at the end of the semester.
 
 Quizzes and Exams
 -----------------
-Quizzes will be held approximately once per week, on Thursdays.  Generally each quiz
+There will be a quiz approximately once per week, on Thursdays.  Generally each quiz
 will focus on the material covered during the preceeding week.
 
 There will be two midterm exams, and one final exam.
 
-+ **Exam 1**
-**TIME:**
-**LOCATION:** in our usual classroom.
++ **Test 1**  
+**DATE: Thursday, February 19**  
   
-+ **Exam 2**
-**TIME:**
-**LOCATION:** in our usual classroom.
++ **Test 2**  
+**DATE: Thursday, April 9**  
 
 + **FINAL EXAM** (cumulative)  
-**TIME:**
-**LOCATION:**
+**DATE/TIME: Friday, May 8, 7:30am--9:30am**
 
 In accordance with university policy, the final exam is mandatory and must be
 taken by all students at the scheduled time. Do not make travel plans before
