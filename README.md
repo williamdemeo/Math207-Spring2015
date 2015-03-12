@@ -96,13 +96,13 @@ will focus on the material covered during the preceeding week.
 
 There will be two midterm exams, and one final exam.
 
-+ **Test 1**  
++ **Test 1** Chapters 1--3  
 **DATE: Thursday, February 19**  
   
-+ **Test 2**  
++ **Test 2** Chapters 4--5  
 **DATE: Thursday, April 9**  
 
-+ **FINAL EXAM** (cumulative)  
++ **FINAL EXAM** Chapters 1--7 (cumulative)  
 **DATE/TIME: Friday, May 8, 7:30am--9:30am**
 
 In accordance with university policy, the final exam is mandatory and must be
