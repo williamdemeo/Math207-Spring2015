@@ -61,7 +61,7 @@ Prerequisites
 Websites
 --------
 [Blackboard: http://bb.its.iastate.edu](http://bb.its.iastate.edu)  
-[WebAssign: https://www.webassign.net/login.html](https://www.webassign.net/login.html)
+[WebAssign: https://www.webassign.net/login.html](https://www.webassign.net/login.html)  
 [GitHub: https://github.com/williamdemeo](https://github.com/williamdemeo)
 
 **Blackboard** is used by the profs for recording grades, posting general
@@ -75,9 +75,9 @@ homework assignments.
 
 Grading Policy
 --------------
-**Homework:** 15%
-**Quizzes:** 10%
-**Two Tests:** 45%
+**Homework:** 15%  
+**Quizzes:** 10%  
+**Two Tests:** 45%  
 **Final Exam:** 30%
 
 **Letter Grades:** A: ≥ 91%, B: ≥ 81%, C: ≥ 71%, D: ≥ 61%, F: < 61%,
@@ -95,28 +95,18 @@ Quizzes will be held approximately once per week, on Thursdays.  Generally each 
 will focus on the material covered during the preceeding week.
 
 There will be two midterm exams, and one final exam.
-**Each test is worth 15%, the midterm is worth 20%, and the final exam is worth
-25% of the course grade.**
 
-+ **TEST 1** on Chapter 2  
-**TIME:** Tuesday, February 3 at your usual recitation meeting time.  
-**LOCATION:** in your usual recitation classroom.
++ **Exam 1**
+**TIME:**
+**LOCATION:** in our usual classroom.
   
-+ **MIDTERM EXAM** on Chapter 2 and most of Chapter 3 (up to and including 3.8)   
-**TIME:** Wednesday, February 25, 8:15--9:45pm	
-**LOCATION:** Hoover 2055
-
-+ **TEST 2** on Sections 3.8 through 4.6 (except 4.2)  
-**TIME:** (to be announced)  
-**LOCATION:** (to be announced)
++ **Exam 2**
+**TIME:**
+**LOCATION:** in our usual classroom.
 
 + **FINAL EXAM** (cumulative)  
-**TIME:** (to be announced)  
-**LOCATION:** (to be announced)
-
-The final exam will be a common and cumulative exam; that is, all Math 165
-students take the same exam and it will cover everything we have learned during 
-the semester.
+**TIME:**
+**LOCATION:**
 
 In accordance with university policy, the final exam is mandatory and must be
 taken by all students at the scheduled time. Do not make travel plans before
