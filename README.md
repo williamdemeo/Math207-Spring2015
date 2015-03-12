@@ -25,6 +25,13 @@ in advance to let me know when you plan to visit.
 
 
 ----------------------------------------------------------------------------------
+- [Team Teaching](#team-teaching)
+- [Textbook](#textbook)
+- [Prerequisites](#prerequisites)
+- [Websites](#websites)
+- [Grading Policy](#grading-policy)
+- [Homework](#homework)
+- [Quizzes and Exams](#quizzes-and-exams)
 - [Attendance](#attendance)
 - [Asking Questions](#asking-questions)
 - [Use of Electronics During Lecture](#use-of-electronics-during-lecture)
@@ -34,6 +41,86 @@ in advance to let me know when you plan to visit.
 - [Additional Resources](#additional-resources)
 
 -----------------------------------------------------------------------------------
+
+Team Teaching
+--------------
+This course has two primary instructors, who design and plan the course
+together. This is meant to provide multiple perspectives on the course material, as well
+as more opportunities for contact outside of class. Both instructors have office hours and
+are available for email questions, regardless of which instructor provided the lecture for the
+material in question.
+
+Textbook
+--------
+Elementary Linear Algebra (Custom Edition), by Ron Larson.
+
+Prerequisites
+-------------
+2 semesters of calculus
+
+Websites
+--------
+[Blackboard: http://bb.its.iastate.edu](http://bb.its.iastate.edu)  
+[WebAssign: https://www.webassign.net/login.html](https://www.webassign.net/login.html)
+[GitHub: https://github.com/williamdemeo](https://github.com/williamdemeo)
+
+**Blackboard** is used by the profs for recording grades, posting general
+announcements, and emailing students.
+
+**WebAssign** is an online homework system that students will use to complete
+homework assignments.
+
+**GitHub** is used by one of the profs (DeMeo) as a convenient and reliable
+  shared repository for storing electronic resources related to the course. 
+
+Grading Policy
+--------------
+**Homework:** 15%
+**Quizzes:** 10%
+**Two Tests:** 45%
+**Final Exam:** 30%
+
+**Letter Grades:** A: ≥ 91%, B: ≥ 81%, C: ≥ 71%, D: ≥ 61%, F: < 61%,
+
+Homework
+--------
+Online homework will be completed on WebAssign. Instructions to register
+for WebAssign are found on the Blackboard site. The due date for online homework will be
+midnight on the Thursday and no late homework will be accepted. The lowest homework
+score will be dropped at the end of the semester.
+
+Quizzes and Exams
+-----------------
+Quizzes will be held approximately once per week, on Thursdays.  Generally each quiz
+will focus on the material covered during the preceeding week.
+
+There will be two midterm exams, and one final exam.
+**Each test is worth 15%, the midterm is worth 20%, and the final exam is worth
+25% of the course grade.**
+
++ **TEST 1** on Chapter 2  
+**TIME:** Tuesday, February 3 at your usual recitation meeting time.  
+**LOCATION:** in your usual recitation classroom.
+  
++ **MIDTERM EXAM** on Chapter 2 and most of Chapter 3 (up to and including 3.8)   
+**TIME:** Wednesday, February 25, 8:15--9:45pm	
+**LOCATION:** Hoover 2055
+
++ **TEST 2** on Sections 3.8 through 4.6 (except 4.2)  
+**TIME:** (to be announced)  
+**LOCATION:** (to be announced)
+
++ **FINAL EXAM** (cumulative)  
+**TIME:** (to be announced)  
+**LOCATION:** (to be announced)
+
+The final exam will be a common and cumulative exam; that is, all Math 165
+students take the same exam and it will cover everything we have learned during 
+the semester.
+
+In accordance with university policy, the final exam is mandatory and must be
+taken by all students at the scheduled time. Do not make travel plans before
+knowing the date of the final exam.
 
 Attendance
 ----------
@@ -126,6 +213,7 @@ In this course, we follow the general university classroom policy: http://www.ma
 
 Additional Resources
 --------------------
++ [WebAssign](https://www.webassign.net/login.html)
 + [WebAssign Login Page](https://www.webassign.net/login.html)
 + [WebAssign Login Instructions](http://htmlpreview.github.io/?https://github.com/williamdemeo/Math207-Spring2015/blob/master/WebAssign-Instructions.html)
 + [Math 207 General Info](http://orion.math.iastate.edu/dept/CoursePages/207/)
