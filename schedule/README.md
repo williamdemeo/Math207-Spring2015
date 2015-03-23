@@ -61,12 +61,12 @@ Students are advised to check this page often!
 
 **Thursday 4/2**  
 5.5 Applications of Inner Product Spaces  
+QR-Factorization, Orthogonal Matrices   
 **QUIZ 8:** 5.1--5.3
 
 ---------------------------------------------------------  
 
 **Tuesday 4/7**  
-QR-Factorization, Orthogonal Matrices   
 Review and catch up
 
 **Thursday 4/9**  
