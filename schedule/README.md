@@ -11,7 +11,7 @@ Students are advised to check this page often!
 
 ---------------------------------------------------------  
 
-### CHAPTER 4: VECTOR SPACES
+### CHAPTER 4: Vector Spaces
 
 **Thursday 3/05**  
 4.5 Basis and Dimension  
@@ -28,7 +28,7 @@ Students are advised to check this page often!
 
 ---------------------------------------------------------  
 
-### SPRING BREAK!!!
+### Spring Break!
 
 **Tuesday 3/17:** no class  
 
@@ -36,7 +36,7 @@ Students are advised to check this page often!
 
 ---------------------------------------------------------  
 
-### CHAPTER 5: INNER PRODUCT SPACES
+### CHAPTER 5: Inner Product Spaces
 
 **Tuesday 3/24**  
 4.7 Coordinates and Change of Basis  
@@ -72,7 +72,7 @@ Review and catch up
 
 --------------------------------------------------------  
 
-### CHAPTER 6: LINEAR TRANSFORMATIONS
+### CHAPTER 6: Linear Transformations
 
 **Tuesday 4/14**  
 6.1 Introduction to Linear Transformations  
@@ -88,7 +88,7 @@ Review and catch up
 6.4 Transition Matrices and Similarity  
 6.5 Applications of Linear Transformations  
 
-### EIGENVALUES AND EIGENVECTORS
+### Chapter 7: Eigenvalues and Eigenvectors
 
 **Thursday 4/23**  
 7.1 Eigenvalues and Eigenvectors  
