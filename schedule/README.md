@@ -36,13 +36,11 @@ Students are advised to check this page often!
 
 ---------------------------------------------------------  
 
-
+### CHAPTER 5: INNER PRODUCT SPACES
 
 **Tuesday 3/24**  
 4.7 Coordinates and Change of Basis  
 5.1 Length and Dot Product in R<sup>n</sup>  
-
-### CHAPTER 5: INNER PRODUCT SPACES
 
 **Thursday 3/26**  
 5.2 Inner Product Spaces  
