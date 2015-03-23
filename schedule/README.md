@@ -21,12 +21,10 @@ Students are advised to check this page often!
 
 **Tuesday 3/10**  
 4.6 Rank of a Matrix and Systems of Linear Equations  
-4.7 Coordinates and Change of Basis  
 
 **Thursday 3/12**  
 4.7 Coordinates and Change of Basis  
-4.8 Applications of Vector Spaces  
-**QUIZ 6:** 4.4--4.6  
+**QUIZ 6:** 4.4--4.5  
 
 ---------------------------------------------------------  
 
@@ -38,70 +36,74 @@ Students are advised to check this page often!
 
 ---------------------------------------------------------  
 
-### CHAPTER 5: INNER PRODUCT SPACES
 
 
 **Tuesday 3/24**  
+4.7 Coordinates and Change of Basis  
 5.1 Length and Dot Product in R<sup>n</sup>  
-5.2 Inner Product Spaces  
+
+### CHAPTER 5: INNER PRODUCT SPACES
 
 **Thursday 3/26**  
-5.3 Orthonormal Bases: Gram-Schmidt Process  
-5.4 Mathematical Models and Least Squares Analysis  
-**QUIZ 7:** 4.6--4.8
+5.2 Inner Product Spaces  
+**QUIZ 7:** 4.6--4.7
 
 (Friday 3/27: **last day to drop**)  
 
 ---------------------------------------------------------  
 
 **Tuesday 3/31**  
-5.5 Applications of Inner Product Spaces  
-QR-Factorization, Orthogonal Matrices, Change of Basis  
+5.3 Orthonormal Bases: Gram-Schmidt Process  
+5.4 Mathematical Models and Least Squares Analysis  
 
 ## APRIL
 
-### CHAPTER 6: LINEAR TRANSFORMATIONS
 
 **Thursday 4/2**  
-6.1 Introduction to Linear Transformations  
-6.2 The Kernel and Range of a Linear Transformation  
+5.5 Applications of Inner Product Spaces  
 **QUIZ 8:** 5.1--5.3
 
 ---------------------------------------------------------  
 
 **Tuesday 4/7**  
+QR-Factorization, Orthogonal Matrices   
 Review and catch up
 
 **Thursday 4/9**  
-**TEST 2** (Chapters 4 and 5)
+**TEST 2** (Sections 4.1--4.7 and 5.1--5.5)
 
 --------------------------------------------------------  
 
-### EIGENVALUES AND EIGENVECTORS
+### CHAPTER 6: LINEAR TRANSFORMATIONS
 
 **Tuesday 4/14**  
-6.3 Matrices for Linear Transformations  
-6.4 Transition Matrices and Similarity
+6.1 Introduction to Linear Transformations  
+6.2 The Kernel and Range of a Linear Transformation   
 
 **Thursday 4/16**  
-6.5 Applications of Linear Transformations  
+6.2 The Kernel and Range of a Linear Transformation   
+6.3 Matrices for Linear Transformations  
+(no quiz this week)
 
 ---------------------------------------------------------  
 **Tuesday 4/21**  
-7.1 Eigenvalues and Eigenvectors  
+6.4 Transition Matrices and Similarity  
+6.5 Applications of Linear Transformations  
+
+### EIGENVALUES AND EIGENVECTORS
 
 **Thursday 4/23**  
-7.2 Diagonalization  
-7.3 Symmetric Matrices and Orthogonal Diagonalization  
-**QUIZ 8:** 6.3--6.5
+7.1 Eigenvalues and Eigenvectors  
+**QUIZ 8:** 6.1--6.2
 
 ---------------------------------------------------------  
 **Tuesday 4/28**  
-7.4 Applications of Eigenvalues and Eigenvectors
+7.2 Diagonalization  
+7.3 Symmetric Matrices and Orthogonal Diagonalization  
 
 **Thursday 4/30**  
-Population Growth and Dynamical Systems (I)  
-The Fibonacci Sequence  
-**QUIZ 9:** 7.1--7.3
+7.4 Applications of Eigenvalues and Eigenvectors  
+**QUIZ 9:** 7.1--7.2
+
 
                                                                   
