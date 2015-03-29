@@ -1,0 +1,202 @@
+\documentclass[12pt]{article}
+\usepackage{amssymb, amsmath, amsthm, graphics, graphicx, enumerate}
+\usepackage{multicol}
+\usepackage{mathtools}
+\newcommand\rank{\ensuremath{\operatorname{rank}}}
+\newcommand\nullity{\ensuremath{\operatorname{nullity}}}
+%% \textwidth = 6.5 in
+%% \textheight = 8.6 in
+%% \oddsidemargin = 0.0 in
+%% \evensidemargin = 0.0 in
+%% \topmargin = 0.0 in
+%% \headheight = 0.0 in
+%% \headsep = 0.0 in
+%% \parskip = 0.2in
+%% \parindent = 0.0in
+\usepackage[top=2cm, left=2cm,right=3cm,bottom=2cm]{geometry}
+\pagestyle{empty}
+
+\begin{document}
+\vskip-2cm
+
+\noindent \textbf{Math 207 Section A, Quiz 7} \hfill
+Name: \underline{\phantom{XXXXXXXXXXXXXX}}\\[8pt]
+\noindent {\it Cheating will not be tolerated.}  If there is any indication that a
+student gave or received unauthorized aid on this test, the case 
+will be referred to the ISU Office of Judicial Affairs.\\[16pt]
+``On my honor as a student I,
+\underline{\phantom{XXXXXXXXXXXXXXXXXXXXX}}, have neither
+given nor received unauthorized aid on this quiz.''
+\hbox{} \hskip 1cm {\small (print name clearly)}\\[4pt]
+\begin{flushright} Signature: \underline{\phantom{XXXXXXXXXXXXXXXXXXXXXXXX}}
+  Date: \underline{\phantom{XXXXXXXXXX}}
+\end{flushright}
+\vskip5mm
+\noindent {\bf Multiple choice section.} Circle the letter next to the correct answer(s).
+A question may have more than one correct answer.
+\emph{Select all that apply.}
+\begin{enumerate}
+\item %{\bf (rank)} 
+  The {\bf rank} of an $m \times n$ matrix $A$ is equal to
+  \begin{enumerate}
+  \item the row space of $A$.
+  \item the dimension of the row space $A$.
+  \item the dimension of the column space of $A$.
+  \item $n - \mbox{nullity}(A)$.
+  \item dimension of the solution space of $A \mathbf{x} = \mathbf{0}$.
+  \item the relative position of $A$ in the matrix army.
+  \end{enumerate}
+
+\vskip1cm
+
+\item %{\bf (row equivalent)} 
+  If $A$ and $B$ are {\bf row equivalent} matrices then
+  \begin{enumerate}
+%  \item they must have the same number of rows.
+  \item $B$ can be derived from $A$ using elementary row operations.
+  \item $A$ and $B$ must have the same number of nonzero rows.
+  \item the row space of $A$ must equal the row space of $B$.
+  \item the column space of $A$ must equal the column space of $B$.
+  \item the rank of $A$ must equal the rank of $B$. %; that is, $\rank(A) =     \rank(B)$.
+  \item $A$ and $B$ must row boats up river at equivalent rates.
+  \end{enumerate}
+
+\vskip1cm
+
+\item %{\bf (nullity)} 
+  The {\bf nullity} of an $m \times n$ matrix $A$ is equal to
+  \begin{enumerate}
+  \item the row space of $A$.
+  \item the dimension of the row space $A$.
+  \item the dimension of the column space of $A$.
+  \item $n - \mbox{rank}(A)$.
+  \item dimension of the solution space of $A \mathbf{x} = \mathbf{0}$.
+  \item the illegal marriage of $A$ to another matrix of the same dimensions.
+  \end{enumerate}
+
+\newpage
+
+\item Consider the following {\bf row equivalent} matrices:
+\[
+A = \begin{bmatrix*}[r]
+  -2& -5& 8&	0& -17	\\
+  1& 3& -5& 1&	5\\
+  -1& -1& 1& 3& -19\\
+  1& 7& -13& 5& -3
+\end{bmatrix*},
+\qquad
+B = \begin{bmatrix*}[r]
+  1&	0&	1&	0&	1	\\
+  0&	1&	-2&	0&	3\\
+  0&	0&	0&	1&	-5\\
+  0&	0&	0&	0&	0
+\end{bmatrix*}.
+\]
+\begin{enumerate}[{\bf a.}]
+\item  Determine the {\it rank} and {\it nullity} of $A$.
+\\
+\\
+\hskip1cm
+$\rank(A) = $ \hskip3cm
+% Ans. 3
+$\nullity(A) = $
+% Ans. 2
+\vskip5mm
+\item Find a basis for the {\it nullspace} of $A$.
+
+%Ans. [-1,-1;2,-3;1,0;0,5;0,1]	
+%% \begin{bmatrix}-1\\ 2 \\ 1 \\ 0 \\ 0\end{bmatrix}
+%% \begin{bmatrix}-1\\ -3 \\ 0 \\ 5 \\ 1\end{bmatrix}
+
+\vskip5cm
+
+\item Find a basis for the {\it row space} of $A$. (Use vectors appearing in matrices above!)
+
+
+\vskip5cm
+
+% seenKey [1,0,1,0,1; 0,1,-2,0,3; 0,0,0,1,-5]	
+
+
+\item Find a basis for the {\it column space} of $A$. (Use vectors appearing in matrices above!)
+
+% seenKey [-2,-5,0;1,3,1;-1,-1,3;1,7,5]	
+
+\vskip5cm
+\item The rows of $A$ are linearly\\[4pt]
+(a) dependent \hfill (b) independent \hfill (c) libertarian\\[4pt]
+(circle the letter next to the correct answer)
+
+\end{enumerate}
+\end{enumerate}
+
+\end{document}
+
+
+
+
+
+
+\\
+{\bf Answer:} (an English sentence)
+\vskip2cm
+\item Define the 
+\end{enumerate}
+
+\vskip10cm
+
+{\bf Answer here:}
+(fill in the circle next to the correct answer)  
+\begin{itemize}
+\item[$\circ$] $S$ spans $R^2$
+\item[$\circ$] $S$ spans a point in $R^2$
+\item[$\circ$] $S$ spans a line in $R^2$
+\item[$\circ$] $S$ spans a plane in $R^2$
+\end{itemize}
+
+%% (1, 4), (-2, -8), (\frac{1}{2}, 2)
+\newpage
+\item (6 points)
+Consider the following set of vectors in $R^2$
+\[
+S = \{s_1, s_2, s_3\} = \{(3, 2), (-1, 1), (2, 0)\}.
+\]
+Show that $S$ is linearly dependent by writing $s_1$ as a linear combination of
+$s_2$ and $s_3$.
+
+{\bf Show your work here:}
+
+\vskip8cm
+
+{\bf Answer here:}
+\[ s_1 = \phantom{XXXX}\; s_2 \quad + \quad
+\phantom{XXXX} \; s_3
+\]
+\vskip1cm
+
+\item (6 points)
+For the set $S$ in Question 2, say whether each 
+statement below is true or false.  Write your answer on the line provided.
+\begin{enumerate}
+\item The set $S$ is a basis for $R^2$ \hfill \underline{\phantom{XXXXXXXXX}}
+\item The vectors in $S$ span $R^2$ \hfill \underline{\phantom{XXXXXXXXX}}
+\item The vectors in $S$ span $R^3$ \hfill \underline{\phantom{XXXXXXXXX}}
+\end{enumerate}
+
+\end{enumerate}
+
+When you finish the test, acknowledge that
+you understand the cheating policy by signing the following pledge:\\
+\\
+``On my honor as a student I,
+\underline{\phantom{XXXXXXXXXXXXXXXX}}, have neither
+given nor received unauthorized aid on this test.''
+\hbox{} \hskip 1cm {\small (Print Name)}\\
+\\
+\begin{flushright} Signature: \underline{\phantom{XXXXXXXXXXXXXXXXXXXXXXXX}}
+  Date: \underline{\phantom{XXXXXXXXXX}}
+\end{flushright}
+
+
+\end{document}
+
