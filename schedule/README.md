@@ -51,16 +51,14 @@ Students are advised to check this page often!
 ---------------------------------------------------------  
 
 **Tuesday 3/31**  
-5.3 Orthonormal Bases: Gram-Schmidt Process  
-5.4 Mathematical Models and Least Squares Analysis  
+5.2 Inner Product Spaces  
 
 ## APRIL
 
 
 **Thursday 4/2**  
-5.5 Applications of Inner Product Spaces  
-QR-Factorization, Orthogonal Matrices   
-**QUIZ 8:** 5.1--5.3
+5.3 Orthonormal Bases: Gram-Schmidt Process  
+(no quiz this week)
 
 ---------------------------------------------------------  
 
@@ -68,15 +66,15 @@ QR-Factorization, Orthogonal Matrices
 Review and catch up
 
 **Thursday 4/9**  
-**TEST 2** (Sections 4.1--4.7 and 5.1--5.5)
+**TEST 2** (Sections 4.1--4.7 and 5.1--5.3)
 
 --------------------------------------------------------  
 
 ### CHAPTER 6: Linear Transformations
 
 **Tuesday 4/14**  
+5.4 Brief intro to math models and least squares  
 6.1 Introduction to Linear Transformations  
-6.2 The Kernel and Range of a Linear Transformation   
 
 **Thursday 4/16**  
 6.2 The Kernel and Range of a Linear Transformation   
