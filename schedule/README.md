@@ -40,10 +40,9 @@ Students are advised to check this page often!
 
 **Tuesday 3/24**  
 4.7 Coordinates and Change of Basis  
-5.1 Length and Dot Product in R<sup>n</sup>  
 
 **Thursday 3/26**  
-5.2 Inner Product Spaces  
+5.1 Length and Dot Product in R<sup>n</sup>  
 **QUIZ 7:** 4.6--4.7
 
 (Friday 3/27: **last day to drop**)  
