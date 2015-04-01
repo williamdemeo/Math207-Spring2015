@@ -99,7 +99,7 @@ Review and catch up
 
 **Thursday 4/30**  
 7.4 Applications of Eigenvalues and Eigenvectors  
-**QUIZ 9:** 7.1--7.2
+**QUIZ 8:** 7.1--7.2
 
 
                                                                   
