@@ -72,33 +72,33 @@ Review and catch up
 ### CHAPTER 6: Linear Transformations
 
 **Tuesday 4/14**  
-5.4 Brief intro to math models and least squares  
-6.1 Introduction to Linear Transformations  
+5.4 Math models and least squares  
 
 **Thursday 4/16**  
-6.2 The Kernel and Range of a Linear Transformation   
-6.3 Matrices for Linear Transformations  
+6.1 Introduction to Linear Transformations  
 (no quiz this week)
 
 ---------------------------------------------------------  
 **Tuesday 4/21**  
+6.2 The Kernel and Range of a Linear Transformation   
+6.3 Matrices for Linear Transformations  
+
+**Thursday 4/23**  
 6.4 Transition Matrices and Similarity  
 6.5 Applications of Linear Transformations  
+**QUIZ 8:** 5.4--6.1
 
 ### Chapter 7: Eigenvalues and Eigenvectors
 
-**Thursday 4/23**  
-7.1 Eigenvalues and Eigenvectors  
-**QUIZ 8:** 6.1--6.2
-
 ---------------------------------------------------------  
 **Tuesday 4/28**  
+7.1 Eigenvalues and Eigenvectors  
 7.2 Diagonalization  
-7.3 Symmetric Matrices and Orthogonal Diagonalization  
 
 **Thursday 4/30**  
-7.4 Applications of Eigenvalues and Eigenvectors  
-**QUIZ 8:** 7.1--7.2
+7.3 Symmetric Matrices and Orthogonal Diagonalization  
+**QUIZ 8:** 6.2--6.4
 
+<!-- 7.4 Applications of Eigenvalues and Eigenvectors  -->
 
                                                                   
