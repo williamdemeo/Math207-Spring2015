@@ -85,7 +85,7 @@ Review and catch up
 
 **Thursday 4/23**  
 6.4 Transition Matrices and Similarity  
-6.5 Applications of Linear Transformations  
+(6.5 Applications of Linear Transformations)  
 **QUIZ 8:** 5.4--6.1
 
 ### Chapter 7: Eigenvalues and Eigenvectors
