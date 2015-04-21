@@ -85,8 +85,7 @@ Review and catch up
 
 **Thursday 4/23**  
 6.4 Transition Matrices and Similarity  
-(6.5 Applications of Linear Transformations)  
-**QUIZ 8:** 5.4--6.1
+**QUIZ 8:** 5.4, 6.1
 
 ### Chapter 7: Eigenvalues and Eigenvectors
 
@@ -98,6 +97,20 @@ Review and catch up
 **Thursday 4/30**  
 7.3 Symmetric Matrices and Orthogonal Diagonalization  
 **QUIZ 8:** 6.2--6.4
+
+---------------------------------------------------------  
+**Tuesday 5/5**  
+(no class)  
+
+**Wendesday 5/6**  
+Optional exam review session  
+tentative time 12:30--2pm, subject to room availability (tbd/tba)  
+
+**Tuesday 5/7**  
+(no class)  
+
+**Friday 5/8**  
+**FINAL EXAM:** 7:30am--9:30am in our usual classroom
 
 <!-- 7.4 Applications of Eigenvalues and Eigenvectors  -->
 
