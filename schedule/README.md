@@ -81,21 +81,20 @@ Review and catch up
 ---------------------------------------------------------  
 **Tuesday 4/21**  
 6.2 The Kernel and Range of a Linear Transformation   
-6.3 Matrices for Linear Transformations  
 
 **Thursday 4/23**  
-6.4 Transition Matrices and Similarity  
+6.3 Matrices for Linear Transformations  
 **QUIZ 8:** 5.4, 6.1
 
 ### Chapter 7: Eigenvalues and Eigenvectors
 
 ---------------------------------------------------------  
 **Tuesday 4/28**  
+6.4 Transition Matrices and Similarity  
 7.1 Eigenvalues and Eigenvectors  
-7.2 Diagonalization  
 
 **Thursday 4/30**  
-7.3 Symmetric Matrices and Orthogonal Diagonalization  
+7.2 Diagonalization  
 **QUIZ 8:** 6.2--6.4
 
 ---------------------------------------------------------  
@@ -103,7 +102,7 @@ Review and catch up
 (no class)  
 
 **Wendesday 5/6**  
-Optional exam review session  
+Optional Q&A session
 tentative time 12:30--2pm, subject to room availability (tbd/tba)  
 
 **Tuesday 5/7**  
