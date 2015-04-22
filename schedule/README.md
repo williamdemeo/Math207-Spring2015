@@ -102,7 +102,7 @@ Review and catch up
 (no class)  
 
 **Wendesday 5/6**  
-Optional Q&A session
+Optional Q&A session  
 tentative time 12:30--2pm, subject to room availability (tbd/tba)  
 
 **Tuesday 5/7**  
