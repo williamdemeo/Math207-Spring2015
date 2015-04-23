@@ -91,11 +91,10 @@ Review and catch up
 ---------------------------------------------------------  
 **Tuesday 4/28**  
 6.4 Transition Matrices and Similarity  
-7.1 Eigenvalues and Eigenvectors  
 
 **Thursday 4/30**  
-7.2 Diagonalization  
-**QUIZ 8:** 6.2--6.4
+7.1 Eigenvalues and Eigenvectors  
+(no quiz this week)
 
 ---------------------------------------------------------  
 **Tuesday 5/5**  
