@@ -1,0 +1,147 @@
+\documentclass[fleqn,12pt]{article}
+\usepackage[top=2cm, left=1.5cm,right=2cm,bottom=1cm]{geometry}%
+\usepackage[fleqn]{amsmath}
+\usepackage{amsmath,mathtools}
+\usepackage{url,multicol}
+\usepackage{ifthen}
+\newboolean{answers}
+%\setboolean{answers}{true}  % set to true to include TODO statements
+\setboolean{answers}{false}  % set to false to use input statements
+\newcommand\rank{\ensuremath{\operatorname{rank}}}
+\newcommand\nullity{\ensuremath{\operatorname{nullity}}}
+\pagestyle{empty}
+
+\begin{document}
+\vskip-2cm
+
+\noindent \textbf{Math 207 Section A, Quiz 8} \hfill
+Name: \underline{\phantom{XXXXXXXXXXXXXX}}
+\vskip5mm
+\noindent To receive any credit, you must {\bf show your work!}
+
+\begin{enumerate}
+\item 
+  Find bases for the four fundamental subspaces of the matrix
+  \[A = 
+  \begin{bmatrix*}[r]
+    1 &	3&	4	\\
+    0 &	2&	0\\
+  \end{bmatrix*}
+  \]
+  \vskip5mm
+  \begin{enumerate}
+  \item 
+    %    Basis for $N(A)$:
+    $N(A)$:
+
+
+    \hfill\ifthenelse{\boolean{answers}}{%
+      \vskip1cm
+      \[
+      \text{          {\bf Answer:} } \quad
+      \bigl\{
+      \begin{bmatrix*}[r]
+        %          \begin{bmatrix} 
+        -4 \\
+        0\\
+        1
+      \end{bmatrix*}
+      \bigr\}
+      \]
+    }{\vskip5cm}
+    \vskip1cm
+
+  \item %Basis for $N(A^T)$:
+    $N(A^T)$:
+
+    \hfill\ifthenelse{\boolean{answers}}{%
+      \vskip1cm
+      \[
+      \text{          {\bf Answer:} } \quad
+      \bigl\{
+      \begin{bmatrix} 
+        0\\
+        0
+      \end{bmatrix}
+      \bigr\}
+      \]
+    }{\vskip5cm}
+    \vskip1cm
+
+  \item $R(A)$:
+
+    \hfill\ifthenelse{\boolean{answers}}{%
+      \vskip1cm
+      \[
+      \text{          {\bf Answer:} } \quad
+      \bigl\{
+      \begin{bmatrix} 
+        1 \\
+        0
+      \end{bmatrix},
+      \begin{bmatrix} 
+        3\\
+        2
+      \end{bmatrix}
+      \bigr\}
+      \]
+    }{\vskip5cm}
+
+    \newpage
+
+  \item
+    $R(A^T)$:
+
+    \vskip1cm
+    \hfill\ifthenelse{\boolean{answers}}{%
+      \[  \text{   {\bf Answer:}} \quad 
+      \bigl\{
+      \begin{bmatrix} 
+        1 \\
+        3 \\
+        4
+      \end{bmatrix},
+      \begin{bmatrix} 
+        0\\
+        2\\
+        0
+      \end{bmatrix}
+      \bigr\}
+      \]
+    }{\vskip5cm}
+    \vskip2cm
+  \end{enumerate}
+\item
+  Let 
+  $T: R^3 \rightarrow R^3$
+  be a linear transformation such that 
+  \[      T(1, 0, 0) = (1, 2, 4), \quad 
+  T(0, 1, 0) = (3, 2, 1), \quad
+  T(0, 0, 1) = (0, 2, 2).
+  \]
+  Compute $T(1, 0, 3)$. 
+  ({\it Hint: First write $(1,0,3)$ as a linear combination of basis vectors.})
+
+  \vskip6cm
+
+  \ifthenelse{\boolean{answers}}{%
+    {\bf Answer:} \hskip5mm $T(1, 0, 3) =(1, 8, 10)$
+  }{
+    \hfill{\bf Answer:} \hskip5mm $T(1, 0, 3) =$ \phantom{XXXXXXXXXXXXXXX}}
+
+\end{enumerate}
+
+\vfill
+\noindent 
+``On my honor as a student I,
+\underline{\phantom{XXXXXXXXXXXXXXXXXXXXX}}, have neither
+given nor received unauthorized aid on this quiz.''
+\hbox{} \hskip 1cm {\small (print name clearly)}\\[4pt]
+\begin{flushright} Signature: \underline{\phantom{XXXXXXXXXXXXXXXXXXXXXXXX}}
+  Date: \underline{\phantom{XXXXXXXXXX}}
+\end{flushright}
+\vskip5mm
+~ \hfill Score: \phantom{XXXXXX}
+
+
+\end{document}
