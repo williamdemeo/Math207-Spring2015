@@ -97,12 +97,14 @@ Review and catch up
 (no quiz this week)
 
 ---------------------------------------------------------  
+**Monday 5/4**  
+Office hours: 12:30--2pm in **Carver 101**  
+
 **Tuesday 5/5**  
 (no class)  
 
 **Wendesday 5/6**  
-Optional Q&A session  
-tentative time 12:30--2pm, subject to room availability (tbd/tba)  
+Office hours: 12:30--2pm in **Carver 202**  
 
 **Tuesday 5/7**  
 (no class)  
